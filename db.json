@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Holiday",
+      "content": "Saya merencanakan berlibur kesumbar liburan semester ini."
+    },
+    {
+      "id": "3",
+      "title": "Makanan Favorit",
+      "content": "Rendang adalah makanan kesukaan saya."
+    }
+  ]
+}
